@@ -4,7 +4,7 @@ Free Python Tutorials
 # Links 
 
 1. [Introduction to Python Programming Language](https://www.youtube.com/watch?v=Zufhf-1sAGk&list=PLGti5cnlfURpXuEWmHsVaQ8zzz4srH4ZD&index=2)
-2. [Executing Python Code as a Script]](http://executing%20python%20code%20as%20a%20script/)
+2. [Executing Python Code as a Script](https://www.youtube.com/watch?v=t-6ssdj9l2A&list=PLGti5cnlfURpXuEWmHsVaQ8zzz4srH4ZD&index=2)
 3. [How to take user input in Python programming language](https://www.youtube.com/watch?v=2lInv2nqt8o&list=PLGti5cnlfURpXuEWmHsVaQ8zzz4srH4ZD&index=3)
 4. [Type Casting in Python programming language](https://www.youtube.com/watch?v=89GbhBKmKhs&list=PLGti5cnlfURpXuEWmHsVaQ8zzz4srH4ZD&index=4)
 5. [Building a simple calculator with Python programming language](https://www.youtube.com/watch?v=teBMQBjz9K0&list=PLGti5cnlfURpXuEWmHsVaQ8zzz4srH4ZD&index=5)
