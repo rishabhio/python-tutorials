@@ -3,25 +3,25 @@ Free Python Tutorials
 
 # Links 
 
-[Introduction to Python Programming Language](https://www.youtube.com/watch?v=Zufhf-1sAGk&list=PLGti5cnlfURpXuEWmHsVaQ8zzz4srH4ZD&index=2)
-Executing Python Code as a Script
-How to take user input in Python programming language
-Type Casting in Python programming language
-Building a simple calculator with Python programming language
-Decision making in Python using if-elif-else
-Logical operators in Python | and, or, not
-Repetition in Python | for loop, while loop
-The Python Verse Problem
-Thinking in Python
-Lists in Python
-Dictionary in Python
-Sets in Python
-Immutable data structure i.e. Tuple in Python
-Introduction to functions
-Writing files in Python
-How to read a file in Python
-OOPs in Python
-Inheritance in Python
-Modules in Python
-Python Reserved Keywords
-Error handling in Python
+1. [Introduction to Python Programming Language](https://www.youtube.com/watch?v=Zufhf-1sAGk&list=PLGti5cnlfURpXuEWmHsVaQ8zzz4srH4ZD&index=2)
+2. [Executing Python Code as a Script]]
+3. [How to take user input in Python programming language]
+4. [Type Casting in Python programming language]
+5. [Building a simple calculator with Python programming language]
+6. [Decision making in Python using if-elif-else]
+7. [Logical operators in Python | and, or, not]
+8. [Repetition in Python | for loop, while loop]
+9. [The Python Verse Problem]
+10. [Thinking in Python]
+11. [Lists in Python]
+12. [Dictionary in Python]
+13. [Sets in Python]
+14. [Immutable data structure i.e. Tuple in Python]
+15. [Introduction to functions]
+16. [Writing files in Python]
+17. [How to read a file in Python]
+18. [OOPs in Python]
+19. [Inheritance in Python]
+20. [Modules in Python]
+21. [Python Reserved Keywords]
+22. [Error handling in Python]
